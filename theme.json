@@ -9,44 +9,71 @@
 		}
 	],
 	"settings": {
-		"appearanceTools": true,
+    "appearanceTools": true,
+    "custom": {
+      "brand": {
+        "name": "RPG Foundry",
+        "tagline": "Forge Your Next Adventure",
+        "description": "An arcane-tech knowledge hub for discovering, evaluating, and tracking RPGs."
+      }
+    },
 		"color": {
-			"defaultDuotone": false,
-			"defaultGradients": false,
-			"defaultPalette": false,
-			"palette": [
-				{
-					"color": "#121212",
-					"name": "Base",
-					"slug": "base"
-				},
-				{
-					"color": "#4A4A4A",
-					"name": "Neutral",
-					"slug": "neutral"
-				},
-				{
-					"color": "#F4F4F4",
-					"name": "Light",
-					"slug": "light"
-				},
-				{
-					"color": "#FF5F1F",
-					"name": "Accent 1",
-					"slug": "accent-1"
-				},
-				{
-					"color": "#00FF85",
-					"name": "Accent 2",
-					"slug": "accent-2"
-				},
-				{
-					"color": "#3895FF",
-					"name": "Accent 3",
-					"slug": "accent-3"
-				}
-			]
-		},
+      "duotone": [
+        {
+          "colors": [ "#0D0F12", "#7F5AF0" ],
+            "slug": "void-violet",
+            "name": "Void Violet"
+        },
+        {
+          "colors": [ "#14181F", "#E34F91" ],
+          "slug": "ember-magenta",
+          "name": "Ember Magenta"
+        }
+      ],
+      "gradients": [
+        {
+          "slug": "hero-forge-glow",
+          "name": "Hero Forge Glow",
+          "gradient": "linear-gradient(145deg,#7F5AF0 0%,#E34F91 55%,#7F5AF0 100%)"
+        },
+        {
+          "slug": "newsletter-arcane",
+          "name": "Newsletter Arcane",
+          "gradient": "linear-gradient(135deg,#1B1F27 0%,#2A1535 40%,#301F55 75%,#7F5AF0 100%)"
+        },
+        {
+          "slug": "card-sheen",
+          "name": "Card Sheen",
+          "gradient": "linear-gradient(180deg,rgba(255,255,255,0.08) 0%,rgba(255,255,255,0) 100%)"
+        },
+        {
+          "slug": "magitech-pulse",
+          "name": "Magitech Pulse",
+          "gradient": "radial-gradient(circle at 30% 35%,rgba(127,90,240,0.35) 0%,rgba(227,79,145,0.20) 40%,rgba(13,15,18,0) 70%)"
+        }
+      ],
+      "palette": [
+        { "slug": "bg",          "name": "Background",           "color": "#0D0F12" },
+        { "slug": "bg-alt",      "name": "Background Alt",       "color": "#14181F" },
+        { "slug": "surface",     "name": "Surface",              "color": "#1B1F27" },
+        { "slug": "surface-alt", "name": "Surface Alt",          "color": "#232A36" },
+        { "slug": "overlay",     "name": "Overlay Panel",        "color": "#272F3B" },
+        { "slug": "accent",      "name": "Accent Violet",        "color": "#7F5AF0" },
+        { "slug": "accent-alt",  "name": "Accent Magenta",       "color": "#E34F91" },
+        { "slug": "accent-glow", "name": "Accent Glow",          "color": "#9B7AFF" },
+        { "slug": "gold",        "name": "Gold Highlight",       "color": "#C9A227" },
+        { "slug": "text",        "name": "Primary Text",         "color": "#E6E8EC" },
+        { "slug": "text-muted",  "name": "Muted Text",           "color": "#A3A8B3" },
+        { "slug": "border",      "name": "Border",               "color": "#2E3540" },
+        { "slug": "success",     "name": "Success",              "color": "#3BAA6E" },
+        { "slug": "warning",     "name": "Warning",              "color": "#C58B33" },
+        { "slug": "danger",      "name": "Danger",               "color": "#D15555" },
+        { "slug": "neutral",     "name": "Neutral Grey",         "color": "#6B727D" }
+      ],
+      "background": true,
+      "link": true,
+      "defaultPalette": false
+    },
 		"layout": {
 			"contentSize": "768px",
 			"wideSize": "1240px"
@@ -57,7 +84,27 @@
 					"name": "LSX Shadow",
 					"shadow": "4px 4px 0px 0px #000",
 					"slug": "lsx-shadow"
-				}
+				},
+        {
+          "slug": "depth-soft",
+          "name": "Soft Depth",
+          "shadow": "0 4px 12px -2px rgba(0,0,0,0.55)"
+        },
+        {
+          "slug": "violet-glow",
+          "name": "Violet Glow",
+          "shadow": "0 0 0 1px rgba(127,90,240,0.4),0 0 16px -2px rgba(127,90,240,0.55)"
+        },
+        {
+          "slug": "magenta-glow",
+          "name": "Magenta Glow",
+          "shadow": "0 0 0 1px rgba(227,79,145,0.35),0 0 18px -4px rgba(227,79,145,0.6)"
+        },
+        {
+          "slug": "inset-accent",
+          "name": "Inset Accent",
+          "shadow": "inset 0 0 0 1px #2E3540, inset 0 0 18px -6px rgba(127,90,240,0.6)"
+        }
 			]
 		},
 		"spacing": {
@@ -141,7 +188,12 @@
 					"fontFamily": "Lexend, sans-serif",
 					"name": "Lexend",
 					"slug": "lexend"
-				}
+				},
+        {
+          "fontFamily": "'JetBrains Mono', 'Courier New', monospace",
+          "name": "JetBrains Mono",
+          "slug": "jetbrains-mono"
+        }
 			],
 			"fontSizes": [
 				{
