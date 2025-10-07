@@ -11,9 +11,48 @@
 	"settings": {
 		"appearanceTools": true,
 		"color": {
-			"defaultDuotone": false,
-			"defaultGradients": false,
+			"background": true,
 			"defaultPalette": false,
+			"duotone": [
+				{
+					"colors": [
+						"#0D0F12",
+						"#7F5AF0"
+					],
+					"name": "Void Violet",
+					"slug": "void-violet"
+				},
+				{
+					"colors": [
+						"#14181F",
+						"#E34F91"
+					],
+					"name": "Ember Magenta",
+					"slug": "ember-magenta"
+				}
+			],
+			"gradients": [
+				{
+					"gradient": "linear-gradient(145deg,#7F5AF0 0%,#E34F91 55%,#7F5AF0 100%)",
+					"name": "Hero Forge Glow",
+					"slug": "hero-forge-glow"
+				},
+				{
+					"gradient": "linear-gradient(135deg,#1B1F27 0%,#2A1535 40%,#301F55 75%,#7F5AF0 100%)",
+					"name": "Newsletter Arcane",
+					"slug": "newsletter-arcane"
+				},
+				{
+					"gradient": "linear-gradient(180deg,rgba(255,255,255,0.08) 0%,rgba(255,255,255,0) 100%)",
+					"name": "Card Sheen",
+					"slug": "card-sheen"
+				},
+				{
+					"gradient": "radial-gradient(circle at 30% 35%,rgba(127,90,240,0.35) 0%,rgba(227,79,145,0.20) 40%,rgba(13,15,18,0) 70%)",
+					"name": "Magitech Pulse",
+					"slug": "magitech-pulse"
+				}
+			],
 			"palette": [
 				{
 					"color": "#121212",
@@ -21,31 +60,123 @@
 					"slug": "base"
 				},
 				{
-					"color": "#4A4A4A",
-					"name": "Neutral",
+					"color": "#0D0F12",
+					"name": "Background",
+					"slug": "bg"
+				},
+				{
+					"color": "#14181F",
+					"name": "Background Alt",
+					"slug": "bg-alt"
+				},
+				{
+					"color": "#c58b33",
+					"name": "Surface",
+					"slug": "surface"
+				},
+				{
+					"color": "#232A36",
+					"name": "Surface Alt",
+					"slug": "surface-alt"
+				},
+				{
+					"color": "#272F3B",
+					"name": "Overlay Panel",
+					"slug": "overlay"
+				},
+				{
+					"color": "#7F5AF0",
+					"name": "Accent Violet",
+					"slug": "accent"
+				},
+				{
+					"color": "#E34F91",
+					"name": "Accent Magenta",
+					"slug": "accent-alt"
+				},
+				{
+					"color": "#9B7AFF",
+					"name": "Accent Glow",
+					"slug": "accent-glow"
+				},
+				{
+					"color": "#C9A227",
+					"name": "Gold Highlight",
+					"slug": "gold"
+				},
+				{
+					"color": "#E6E8EC",
+					"name": "Primary Text",
+					"slug": "text"
+				},
+				{
+					"color": "#A3A8B3",
+					"name": "Muted Text",
+					"slug": "text-muted"
+				},
+				{
+					"color": "#2E3540",
+					"name": "Border",
+					"slug": "border"
+				},
+				{
+					"color": "#3BAA6E",
+					"name": "Success",
+					"slug": "success"
+				},
+				{
+					"color": "#C58B33",
+					"name": "Warning",
+					"slug": "warning"
+				},
+				{
+					"color": "#D15555",
+					"name": "Danger",
+					"slug": "danger"
+				},
+				{
+					"color": "#6B727D",
+					"name": "Neutral Grey",
 					"slug": "neutral"
 				},
 				{
-					"color": "#F4F4F4",
-					"name": "Light",
-					"slug": "light"
+					"color": "#ffffff",
+					"name": "White",
+					"slug": "white"
 				},
 				{
-					"color": "#FF5F1F",
+					"color": "#000000",
+					"name": "Black",
+					"slug": "black"
+				},
+				{
+					"color": "#C58B33",
 					"name": "Accent 1",
 					"slug": "accent-1"
 				},
 				{
-					"color": "#00FF85",
+					"color": "var(--wp--preset--color--bg)",
+					"name": "Light",
+					"slug": "light"
+				},
+				{
+					"color": "#C9A227",
 					"name": "Accent 2",
 					"slug": "accent-2"
 				},
 				{
-					"color": "#3895FF",
-					"name": "Accent 3",
-					"slug": "accent-3"
+					"color": "var(--wp--preset--color--surface)",
+					"name": "Contrast",
+					"slug": "contrast"
 				}
 			]
+		},
+		"custom": {
+			"brand": {
+				"description": "An arcane-tech knowledge hub for discovering, evaluating, and tracking RPGs.",
+				"name": "RPG Foundry",
+				"tagline": "Forge Your Next Adventure"
+			}
 		},
 		"layout": {
 			"contentSize": "768px",
@@ -57,6 +188,26 @@
 					"name": "LSX Shadow",
 					"shadow": "4px 4px 0px 0px #000",
 					"slug": "lsx-shadow"
+				},
+				{
+					"name": "Soft Depth",
+					"shadow": "0 4px 12px -2px rgba(0,0,0,0.55)",
+					"slug": "depth-soft"
+				},
+				{
+					"name": "Violet Glow",
+					"shadow": "0 0 0 1px rgba(127,90,240,0.4),0 0 16px -2px rgba(127,90,240,0.55)",
+					"slug": "violet-glow"
+				},
+				{
+					"name": "Magenta Glow",
+					"shadow": "0 0 0 1px rgba(227,79,145,0.35),0 0 18px -4px rgba(227,79,145,0.6)",
+					"slug": "magenta-glow"
+				},
+				{
+					"name": "Inset Accent",
+					"shadow": "inset 0 0 0 1px #2E3540, inset 0 0 18px -6px rgba(127,90,240,0.6)",
+					"slug": "inset-accent"
 				}
 			]
 		},
@@ -141,6 +292,11 @@
 					"fontFamily": "Lexend, sans-serif",
 					"name": "Lexend",
 					"slug": "lexend"
+				},
+				{
+					"fontFamily": "'JetBrains Mono', 'Courier New', monospace",
+					"name": "JetBrains Mono",
+					"slug": "jetbrains-mono"
 				}
 			],
 			"fontSizes": [
@@ -626,7 +782,7 @@
 		},
 		"color": {
 			"background": "var(--wp--preset--color--light)",
-			"text": "var(--wp--preset--color--base)"
+			"text": "var(--wp--preset--color--white)"
 		},
 		"elements": {
 			"button": {
@@ -664,7 +820,7 @@
 			},
 			"caption": {
 				"color": {
-					"text": "var(--wp--preset--color--neutral)"
+					"text": "var(--wp--preset--color--text)"
 				},
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--lexend)",
@@ -721,7 +877,7 @@
 			},
 			"heading": {
 				"color": {
-					"text": "var(--wp--preset--color--accent-1)"
+					"text": "var(--wp--preset--color--warning)"
 				},
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--aleo)",
@@ -734,7 +890,7 @@
 			"link": {
 				":hover": {
 					"color": {
-						"text": "var(--wp--preset--color--accent-3)"
+						"text": "var(--wp--preset--color--accent-glow)"
 					},
 					"typography": {
 						"textDecoration": "none"
@@ -744,8 +900,7 @@
 					"text": "var(--wp--preset--color--accent-1)"
 				},
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--lexend)",
-					"fontSize": "var(--wp--preset--font-size--tiny)"
+					"fontFamily": "var(--wp--preset--font-family--lexend)"
 				}
 			}
 		},
