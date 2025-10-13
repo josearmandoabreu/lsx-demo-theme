@@ -178,6 +178,16 @@
 				"tagline": "Forge Your Next Adventure"
 			}
 		},
+		"dimensions": {
+			"aspectRatios": [
+				{
+					"name": "Taller - 8:12",
+					"ratio": "8/12",
+					"slug": "8-12"
+				}
+			],
+			"defaultAspectRatios": true
+		},
 		"layout": {
 			"contentSize": "768px",
 			"wideSize": "1240px"
