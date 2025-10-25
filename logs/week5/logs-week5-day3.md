@@ -1,35 +1,43 @@
 # Week 5, Day 3 Log Template
 
-This template illustrates how to structure your daily log.  Duplicate this file for each day of the week and replace the placeholder text with your own entries.
-
 ## Daily Standup
+
+### 2025‑10‑22
 
 ### How do you feel today?
 
-Describe your overall mood or energy level.  For example: “Feeling excited to start working on the project.”
+Feeling good.
 
 ### What did you do yesterday?
 
-Summarise what you accomplished in the previous session.  Mention specific tasks or issues you worked on.
+– Planed the day priorities.
+– Xneelo Handover - Meet with Justin and Lourens 7am - 8am Chile time 12pm - 1pm SA time.
+– Meet with Ash - How to Use copilot spaces properly and Personal project brief and copilot research.
+– LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: Ensured consistency in font sizes for headings, paragraphs, and other text elements across multiple patterns, Removed deprecated font size definitions and replaced them with a more streamlined approach.
+– LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: - testing fonts functionality across the theme
+– LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: - Checking if the spacing convention is aligned with the Spacing Sizes & Slugs defined in the documentation.
+– LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: Refactor color palette structure in evening and dark mode styles for improved readability.
+– LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: Enhance typography and color system in README for improved clarity and consistency.
+– LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: Accessibility and testing.
 
 ### What do you plan to do today?
 
-List the tasks you intend to work on today.  Use a checklist to break them down:
-
-- [ ] Replace this line with an actual task; keep descriptions short and action‑oriented.
-- [ ] Add more tasks as needed.
+-   [x] Xneelo Handover - Meet with Justin and Lourens 7am - 8am Chile time 12pm - 1pm SA time.
+-   [x] Meet with Brandon and Seren.
+-   [x] LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system.
 
 ### What are your blockers?
 
-Identify anything that might prevent you from making progress (e.g. waiting for feedback, unsure about a tool).  If you have no blockers, state “None”.
+None.
 
 ## Daily Logs
 
-Copy your Harvest time entries here.  Use bullets to list each time entry along with a brief description.  For example:
-
-```
-- 1.5 hrs – cloned repo and installed dependencies (Issue #1)
-- 2.0 hrs – read WordPress block theme documentation and took notes
-```
-
-You can draft notes throughout the day in this section and refine them before committing.
+-   0.50 hrs – Planed the day priorities.
+-   1.00 hrs – Xneelo Handover - Meet with Justin and Lourens 7am - 8am Chile time 12pm - 1pm SA time.
+-   0.75 hrs – Meet with Brandon and Seren.
+-   1.00 hrs – LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: Create a test page in editor and apply each colour to: paragraph, heading, button, group background, Inspect CSS variables output (--wp--preset--color--slug and --wp--preset--font-size--slug).
+-   0.10 hrs – Meet with Barbara.
+-   2.00 hrs – LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: Testing, Add color palette guide and contrast validation report, implemented brand-dark color for improved accessibility, Verify no broken styles in existing templates/patterns, Update link color styles for improved accessibility and consistency.
+-   0.50 hrs – Documentation: WCAG AA and contrast checker.
+-   1.50 hrs – LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: Enhance accessibility documentation and validation; update contrast ratios and guidelines for improved compliance, Added a contrast calculator that calculates WCAG contrast ratios for LSX Demo Theme colors.
+-   0:33 hrs – CodeRabbit documentation.

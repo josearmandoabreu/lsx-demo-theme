@@ -2,22 +2,21 @@
 
 ## Daily Standup
 
-### 2025‑09‑02
+### 2025‑09‑23
 
 ### How do you feel today?
 
-Feeling productive and ready to dive deeper into the project setup.
+Feeling good.
 
 ### What did you do yesterday?
 
-Set up profiles, ran Google Security Checkup, and explored the project structure.
+Start Ollie Block course and setup a local environment for practices.
 
 ### What do you plan to do today?
 
--   [x] Set up Local Ollie and LSX-Demo Site.
--   [x] Start the Block Theme Academy course.
--   [x] Take notes on the Block Theme Academy course.
--   [x] Fork the lsx-demo-theme from lightspeed
+-   [x] Created and updated profiles (WordPress, GitHub, Figma, Asana.).
+-   [x] Continue the Block Theme Academy course.
+-   [x] Organizing and creating tasks on Asana.
 
 ### What are your blockers?
 
@@ -25,6 +24,6 @@ None.
 
 ## Daily Logs
 
--   3.0 hrs – Set up Local Ollie and LSX-Demo Site.
--   4.0 hrs – Started the Block Theme Academy course and took detailed notes.
--   1.0 hrs – Researched additional resources related to block themes.
+-   1.5 hrs – Created and updated profiles (WordPress, GitHub, Figma, Asana.).
+-   2.0 hrs – Continue the Block Theme Academy course.
+-   1.0 hrs – Organizing and creating tasks on Asana.

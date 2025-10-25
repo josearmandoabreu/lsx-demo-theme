@@ -2,21 +2,22 @@
 
 ## Daily Standup
 
-### 2025‑09‑10
+### 2025‑10‑01
 
 ### How do you feel today?
 
-Feeling focused and excited to collaborate with Seren on the project.
+Feeling focused and excited to start my first official day in the company.
 
 ### What did you do yesterday?
 
-Completed a Microsoft course, worked on the lsx-demo-theme project, and read forums for learning material.
+Completed Introduction to GitHub Copilot, Part 1 and Part 2.
 
 ### What do you plan to do today?
 
--   [x] Collaborate with Seren to plan the lsx-demo-theme project.
--   [x] Complete the GitHub course: Skills - Introduction to Repository Management.
--   [x] Sort out the GitHub billing issue via email support.
+-   [x] Meet with Lourens.
+-   [x] Meet with Ash.
+-   [x] I need to read important documentation about Awesome MCP Copilot and MCP servers.
+-   [x] Configure Awesome MCP Copilot and MCP servers on VS Code.
 
 ### What are your blockers?
 
@@ -24,7 +25,9 @@ None.
 
 ## Daily Logs
 
--   3.0 hrs – Collaborated with Seren to plan the lsx-demo-theme project and divide tasks.
--   1.5 hrs – Completed the GitHub course: Skills - Introduction to Repository Management.
--   2.5 hrs – Resolved the GitHub billing issue via email support and ensured the account was fully functional.
--   1.0 hrs – Reviewed additional forums and resources shared by Seren.
+-   0.17 hrs – Meet with Lourens.
+-   0.50 hrs – Planed the day priorities.
+-   0.33 hrs – Meet with Ash.
+-   1.50 hrs – Read documentation about Awesome MCP Copilot MCP server (https://developer.microsoft.com/blog/announcing-awesome-copilot-mcp-server).
+-   1.50 hrs – MCP documentation.
+-   1.00 hrs – MCP servers configurations.

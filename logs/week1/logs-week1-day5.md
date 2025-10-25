@@ -2,21 +2,24 @@
 
 ## Daily Stand‑up
 
-### 2025‑09‑05
+### 2025‑09‑26
 
 ### How do you feel today?
 
-Feeling accomplished after completing the week’s tasks and learning a lot.
+Feeling accomplished after advance on this week’s tasks and learning a lot.
 
 ### What did you do yesterday?
 
-Completed two GitHub courses and continued the Block Theme Academy course.
+– Setting up Profiles, Organizing documentations and folders.
+– Continue Ollie Block Academy Course.
+– Personal project - Phase 1 – Setup & Preparation.
+– Github documentations.
 
 ### What do you plan to do today?
 
--   [x] Complete the GitHub course: Skills - Integrate MCP with Copilot.
--   [x] Finalize the Block Theme Academy course.
--   [x] Reflect on the week and plan next steps.
+-   [x] Personal project - Phase 2 – Core Site Editor Build. (Header Template Part)
+-   [x] Documentation and Familiarizing myself with Figma dev mode.
+-   [x] Continue Ollie Block Academy Course.
 
 ### What are your blockers?
 
@@ -24,10 +27,6 @@ None.
 
 ## Daily Logs
 
--   3.0 hrs – Completed the GitHub courses as well as reading forums regarding GitHub Copilot and github fundamentals.
--   3.5 hrs – Finalized the Block Theme Academy course and reviewed notes.
--   1.5 hrs – Reflected on the week and planned next steps.
-
-```
-At the end of the week, include a reflection in your weekly log file summarising what you learned and your next steps.
-```
+-   1.0 hrs – Personal project - Phase 2 – Core Site Editor Build.
+-   1.5 hrs – Documentation and Familiarizing myself with Figma dev mode.
+-   1.5 hrs – Continue Ollie Block Academy Course.

@@ -2,7 +2,7 @@
 
 ## Daily Standup
 
-### 2025‑09‑12
+### 2025‑10‑03
 
 ### How do you feel today?
 
@@ -10,13 +10,15 @@ Feeling satisfied with the progress made this week and ready to wrap up.
 
 ### What did you do yesterday?
 
-Completed a Microsoft course, worked on the lsx-demo-theme project, and cleaned up my email inbox.
+-   GitHub Foundations, Part 1.
+-   Personal Project Phase 2 – Core Site Editor Build.
+-   Website Design & Content Planning - Jose's Gaming Website.
+-   Phase 3 – Styling & Global Settings
 
 ### What do you plan to do today?
 
--   [x] Complete the GitHub course: Skills - Communicate Using Markdown.
--   [x] Complete the Microsoft course: Using Advanced GitHub Copilot Features.
--   [x] Reflect on the week and plan next steps.
+-   [x] Personal Project Phase 2 – Core Site Editor Build.
+-   [x] Personal Project Phase 3 – Styling & Global Settings
 
 ### What are your blockers?
 
@@ -24,7 +26,9 @@ None.
 
 ## Daily Logs
 
--   1.0 hrs – Completed the GitHub course: Skills - Communicate Using Markdown.
--   1.5 hrs – Completed the Microsoft course: Using Advanced GitHub Copilot Features.
--   3.5 hrs – Finalized Week 2 steps for the lsx-demo-theme project and reviewed progress with Seren.
--   2.0 hrs – Reflected on the week and planned next steps for Week 3.
+-   0.50 hrs – Planed the day priorities.
+-   1.50 hrs – Personal Project Phase 2 – Core Site Editor Build. - Index (Posts Archive).
+-   1.50 hrs – Personal Project Phase 2 – Core Site Editor Build. - Single Post Templat.
+-   1.00 hrs – Personal Project Phase 2 – Core Site Editor Build. - Home page (hero pattern, CTA).
+-   1.50 hrs – Personal Project Phase 3 – Styling & Global Settings - (Typography applied).
+-   1.00 hrs – Personal Project Phase 3 – Styling & Global Settings - (Global Spacings applied).

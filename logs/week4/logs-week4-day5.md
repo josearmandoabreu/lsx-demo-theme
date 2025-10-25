@@ -1,42 +1,43 @@
-# Week 4, Day 5 Log 2025-09-26
+# Week 4, Day 5 Log Template
 
-## Today's Progress
+## Daily Standup
 
-### What have you accomplished today?
+### 2025‑10‑17
 
--   Re-formatted the tabs in the Website Structure document.
--   Made final updates to my website brief in the docs.
--   Exported 16 tabs from my document into .md format to use as instructions for Copilot agent/spaces. Edited and added them to my repo.
--   Used the new .md instruction files as guidelines, along with the WordPress block theme spaces in lightspeed, to prompt Copilot to start the tasks. Experienced and resolved some errors during this process and had to re-run some jobs.
--   Attended a meeting with Ash, Seren, Zared, and Warick regarding the incredible prompting Zared developed.
--   Had a catch-up meeting with Seren.
+### How do you feel today?
 
-### How do you feel about today’s progress?
+Feeling good.
 
-Today was a really good day. I got through a lot of work and my understanding of Copilot Spaces, custom instructions, prompts, and chat modes is improving. I’m really enjoying this learning process.
+### What did you do yesterday?
 
----
+– Planed the day priorities.
+– Docs: WordPress Dev Tools & Build Process.
+– Bugherd Local: reading documentation and made it worked.
+– Meet wit Barbs, Brandon and Seren.
+– Planned the next courses I need to complete.
+– Personal project Phase 3 – Styling & Global Settings - looking for a way to change paddings just for mobile using theme.json + worked on global styles enhacements.
+– GitHub Foundations, Part 2 - Module 7 + exercise, Had some issues with the repository but I solved and completed the module.
+– Track/Solve Bugherd Tickets - Bugherd Tickets: #36 and #37 solved.
 
-## Challenges Faced Today
+### What do you plan to do today?
 
-No major challenges today. I encountered some errors related to .gitattributes and .gitignore, but I managed to resolve them quickly.
+-   [x] Organizing Asana.
+-   [x] Catchup with Brandon & Seren.
+-   [x] Continue Ollie Block Academy Course.
+-   [x] Personal project Phase 3 – Styling & Global Settings.
+-   [x] Site Build Progress & Template Registration Checklist task.
 
----
+### What are your blockers?
 
-## Time Logs
+None.
 
--   1.0 hrs – Re-formatting tabs in Website Structure document.
--   1.0 hrs – Final updates to website brief.
--   2.0 hrs – Exporting 16 tabs to .md, formatting, and adding to repo.
--   4.0 hrs – Using instruction files and block theme spaces to prompt Copilot, resolving errors and re-running jobs.
--   0.75 hrs – Meeting with Ash, Seren, Zared, and Warick.
--   1.0 hrs – Catch-up meeting with Seren.
+## Daily Logs
 
----
-
-## Notes
-
--   Exporting the instruction files and integrating them into the repo was a productive step, allowing for more effective use of Copilot Spaces.
--   The meeting about prompting techniques was insightful—excited to apply some of Zared’s methods to future tasks.
--   Overall, today demonstrated significant progress in both technical skills and workflow efficiency.
--   I’m feeling more confident using Copilot Spaces and customizing instructions, and I’m enjoying the learning journey.
+-   0.50 hrs – Planed the day priorities.
+-   1.00 hrs – Organized Asana, Created new tasks, reviewed tasks progress.
+-   1.00 hrs – Catchup with Brandon & Seren.
+-   1.00 hrs – Ollie Block Academy Course - revisited previous sections to refresh knowledge.
+-   1.50 hrs – Ollie Block Academy Course - completed sections where I Left the last time, 5 sections remaining to complete the course.
+-   1.50 hrs – Personal project Phase 3 – Styling & Global Settings - Changes to blog page.
+-   0.50 hrs – Site Build Progress & Template Registration Checklist - Documentation about Template Registration.
+-   1.00 hrs – Site Build Progress & Template Registration Checklist - Worked locally on: Add new page template with sidebar, Add alternative post template with sidebar.

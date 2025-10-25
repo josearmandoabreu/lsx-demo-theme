@@ -1,35 +1,47 @@
 # Week 5, Day 5 Log Template
 
-This template illustrates how to structure your daily log.  Duplicate this file for each day of the week and replace the placeholder text with your own entries.
-
 ## Daily Standup
+
+### 2025‑10‑24
 
 ### How do you feel today?
 
-Describe your overall mood or energy level.  For example: “Feeling excited to start working on the project.”
+Feeling good.
 
 ### What did you do yesterday?
 
-Summarise what you accomplished in the previous session.  Mention specific tasks or issues you worked on.
+– Planed the day priorities.
+– Meet with Barbs.
+– Xneelo - VPN configuration.
+– Xneelo - Introduction to José Abreu Meet.
+– Xneelo - Read Help Centre's Customgpt project for quotation. To get knowledge about how to report and communication flow with the client.
+– T4A - New customer registration email.
+– T4A - looked for access to dev and Live sites + familiarize myself with the site.
+– T4A - live site registration form.
+– Ollie Block Academy Course 100% complete.
+– T4A - Text for 2 issues logged.
+– Documentation and refreshing knowledge about php hooks.
 
 ### What do you plan to do today?
 
-List the tasks you intend to work on today.  Use a checklist to break them down:
-
-- [ ] Replace this line with an actual task; keep descriptions short and action‑oriented.
-- [ ] Add more tasks as needed.
+-   [x] Meet with Barbs.
+-   [x] QP - Black Friday Pop-up 2025.
+-   [x] Admin work: Sending Barbs all the info she needs to process payment.
+-   [x] Accelerate App Development Using GitHub Copilot course.
+-   [x] Personal Project - Site Build Progress & Template Registration Checklist.
+-   [x] Make the time logs for GitHub.
 
 ### What are your blockers?
 
-Identify anything that might prevent you from making progress (e.g. waiting for feedback, unsure about a tool).  If you have no blockers, state “None”.
+None.
 
 ## Daily Logs
 
-Copy your Harvest time entries here.  Use bullets to list each time entry along with a brief description.  For example:
-
-```
-- 1.5 hrs – cloned repo and installed dependencies (Issue #1)
-- 2.0 hrs – read WordPress block theme documentation and took notes
-```
-
-You can draft notes throughout the day in this section and refine them before committing.
+-   0.50 hrs – Planed the day priorities.
+-   0.25 hrs – Meet with Barbs.
+-   0.15 hrs – Meet with Lourens.
+-   0.35 hrs – QP - Black Friday Pop-up 2025.
+-   0.25 hrs – Admin work: Sent Barbs all the info she needs to process payment.
+-   1.75 hrs – Accelerate App Development Using GitHub Copilot course.
+-   3.00 hrs – Personal Project - Site Build Progress & Template Registration Checklist: Started the process of Merging the new "game review" features into the lsx-demo-theme codebase + new styles implementation + standardised colour, spacing, and typography token system locally.
+-   2:00 hrs – Make the time logs for GitHub.

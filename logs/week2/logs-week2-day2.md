@@ -2,7 +2,7 @@
 
 ## Daily Standup
 
-### 2025‑09‑09
+### 2025‑09‑30
 
 ### How do you feel today?
 
@@ -10,13 +10,12 @@ Feeling productive and ready to tackle more learning material.
 
 ### What did you do yesterday?
 
-Installed VS Code extensions, completed a Microsoft course, and started Week 2 steps for the lsx-demo-theme project.
+Sorted tasks and organized priorities, Completed a good portion of the Introduction to GitHub Copilot, Part 1 course.
 
 ### What do you plan to do today?
 
--   [x] Complete the Microsoft course: Manage your work with GitHub Projects.
--   [x] Work on Week 2 steps for the lsx-demo-theme project.
--   [x] Read forums and gather learning material for the project.
+-   [x] Finish Introduction to GitHub Copilot, Part 1.
+-   [x] Finish Introduction to GitHub Copilot, Part 2.
 
 ### What are your blockers?
 
@@ -24,6 +23,12 @@ None.
 
 ## Daily Logs
 
--   1.5 hrs – Completed the Microsoft course: Manage your work with GitHub Projects.
--   4.0 hrs – Continued Week 2 steps for the lsx-demo-theme project, focusing on task implementation.
--   2.5 hrs – Read forums and gathered learning material for the project.
+-   0.50 hrs - Planed the day priorities.
+-   1.00 hrs - Introduction to GitHub Copilot, Part 1: Module 5 GitHub Copilot Across Environments: IDE, Chat, GitHub.com, and Command Line Techniques.
+-   1.67 hrs - Introduction to GitHub Copilot, Part 1: Module 6: Management and customization considerations with GitHub Copilot.
+-   1.00 hrs – Introduction to GitHub Copilot, Part 2: Module 1: Developer use cases for AI with GitHub Copilot.
+-   1.50 hrs – Introduction to GitHub Copilot, Part 2: Module 2: Develop unit tests using GitHub Copilot tools.
+-   0.33 hrs – Introduction to GitHub Copilot, Part 2: Module 3: Introduction to GitHub Copilot Business.
+-   0.33 hrs – Introduction to GitHub Copilot, Part 2: Module 4: Introduction to GitHub Copilot Enterprise.
+-   0.75 hrs – Introduction to GitHub Copilot, Part 2: Module 5 Using GitHub Copilot with JavaScript.
+-   0.42 hrs – Introduction to GitHub Copilot, Part 2: Module 6: Using GitHub Copilot with Python.

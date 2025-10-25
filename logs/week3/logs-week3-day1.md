@@ -2,30 +2,32 @@
 
 ## Daily Standup
 
-### 2025‑09‑15
+### 2025‑10‑06
 
 ### How do you feel today?
 
-Feeling distracted due to a toothache, which made it hard to focus.
+Feeling focus to cotinue with my personal project content and styles.
 
-### What did you do yesterday?
+### What did you do last friday?
 
 Wrapped up Week 2 tasks and reflected on the progress made.
 
 ### What do you plan to do today?
 
--   [x] Complete GitHub courses: Skills - Introduction to CodeQL, Code with Codespaces, and Secure Repository Supply Chain.
--   [x] Catch up with Seren on Week 2 tasks.
--   [x] Finish minor tasks on Asana.
+-   [x] Meet with Barbara.
+-   [x] Personal project Phase 2 – Core Site Editor Build.
+-   [x] Personal project Phase 3 – Styling & Global Settings.
+-   [x] Personal project Phase 4 – Version Control & Documentation.
 
 ### What are your blockers?
 
-Toothache made it difficult to focus.
+None.
 
 ## Daily Logs
 
--   1.0 hrs – Completed the GitHub course: Skills - Introduction to CodeQL.
--   1.0 hrs – Completed the GitHub course: Skills - Code with Codespaces.
--   1.5 hrs – Completed the GitHub course: Skills - Secure Repository Supply Chain.
--   2.0 hrs – Caught up with Seren on Week 2 tasks and discussed progress.
--   1.5 hrs – Finished minor tasks on Asana and ensured everything was up to date.
+-   0.50 hrs – Planed the day priorities.
+-   1.00 hrs – Meet with Barbara.
+-   3.00 hrs – Personal project Phase 2 – Core Site Editor Build - Header and footer improvements.
+-   0.50 hrs – Personal project Phase 3 – Styling & Global Settings - Colour palette, Typography scales, Spacing units, Layout settings.
+-   1.00 hrs – Solved Local setups problems with PHP and Composer.
+-   2.00 hrs – Personal project Phase 4 – Version Control & Documentation. Followed the GitHub Workflow and merged all the commits from my feat/ branch to the develop brach.

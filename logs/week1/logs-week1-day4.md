@@ -2,22 +2,25 @@
 
 ## Daily Standup
 
-### 2025‑09‑04
+### 2025‑09‑25
 
 ### How do you feel today?
 
-Feeling accomplished after making progress on the Block Theme Academy course.
+Feeling accomplished with my progress on Personal project - Phase 1.
 
 ### What did you do yesterday?
 
-Continued the Block Theme Academy course, removed duplicate links, and added links to the study curriculum document.
+– Created and updated profiles (Slack, 1Password, Gravatar, Fireflies.ai)..
+– Organizing and creating tasks on Asana.
+– Personal project - Phase 1 – Setup & Preparation.
+– Continue the Block Theme Academy course.
 
 ### What do you plan to do today?
 
--   [x] Complete the GitHub course: Skills - Introduction to GitHub.
--   [x] Complete the GitHub course: Skills - Getting Started with GitHub Copilot.
--   [x] Continue the Block Theme Academy course.
--   [x] Start with week 1 steps in the lsx-demo-theme.
+-   [x] Setting up Profiles, Organizing documentations and folders.
+-   [x] Continue Ollie Block Academy Course.
+-   [x] Personal project - Phase 1 – Setup & Preparation. (Create Block Theme plugin installed, Access to LSX Figma design system has been granted, Gutenberg test data XML has been imported.)
+-   [x] Github documentations (LightSpeed guides for branching and PR structures).
 
 ### What are your blockers?
 
@@ -25,7 +28,7 @@ None.
 
 ## Daily Logs
 
--   1.0 hrs – Completed the GitHub course: Skills - Introduction to GitHub.
--   1.0 hrs – Completed the GitHub course: Skills - Getting Started with GitHub Copilot.
--   3.0 hrs - Microsoft courses, profile pimping.
--   2.5 hrs – Continued the Block Theme Academy course and refined notes.
+-   2.0 hrs – Setting up Profiles, Organizing documentations and folders.
+-   2.0 hrs – Continue Ollie Block Academy Course.
+-   1.0 hrs - Personal project - Phase 1 – Setup & Preparation.
+-   1.0 hrs – Github documentations.

@@ -1,38 +1,44 @@
-# Week 4, Day 4 Log 2025-09-25
+# Week 4, Day 4 Log Template
 
-## Today's Progress
+## Daily Standup
 
-### What have you accomplished today?
+### 2025‑10‑16
 
--   Had a daily catch-up with @Seren.
--   Used and tested the spaces in VS Code and the new MCP server.
--   Set aside 2 hours for learning and completed my study session.
--   Filled out the brief details for the website project to prepare for the AI agent to start building the website.
+### How do you feel today?
 
-### How do you feel about today’s progress?
+Feeling good.
 
-I feel good about today’s progress. I managed to resolve the issues and complete the tasks I set out to do. Preparing the website brief was a significant step forward.
+### What did you do yesterday?
 
----
+– Planed the day priorities.
+– Meet with Barbs.
+– Meet with Seren and Brandon.
+– Personal project Phase 3 – Styling & Global Settings - implemented, customized and tested mobile menus + merge changes to live site.
+– GitHub Foundations, Part 2 - Module 5 & Module 6 + exercise completed
+– GitHub Foundations, Part 2 - Module 4 completed.
+– Personal project Phase 3 – Styling & Global Settings - Fixed an issue where the images in "Top Categories" for the Games page doesn't show on mobile version.
+– Bugherd docs and usage.
+– Track/Solve Bugherd Tickets - worked locally on Bugherd Tickets: #36 and #37 solutions.
 
-## Challenges Faced Today
+### What do you plan to do today?
 
--   Encountered a merge conflict that caused a blockage and required time to resolve.
+-   [x] Meet with Barbs, Brandon and Seren.
+-   [x] Plan the next courses I need to complete.
+-   [x] Personal project Phase 3 – Styling & Global Settings.
+-   [x] GitHub Foundations, Part 2.
+-   [x] Track/Solve Bugherd Tickets.
 
----
+### What are your blockers?
 
-## Time Logs
+None.
 
--   2.0 hrs – Going through collections and instructions getting them ready for implementation.
--   1.0 hrs – Daily catch-up with @Seren.
--   2.0 hrs – Used and tested the spaces in VS Code and the new MCP server.
--   2.0 hrs – Learning session.
--   1.0 hrs – Filled out the brief details for the website project.
+## Daily Logs
 
----
-
-## Notes
-
--   Resolving the merge conflict was a good learning experience and helped ensure the repository remains clean and functional.
--   Preparing the website brief was a key milestone, and I’m excited to see how the AI agent will handle the project.
--   Testing the spaces in VS Code and the MCP server was insightful and will help streamline future workflows.
+-   0.50 hrs – Planed the day priorities.
+-   0.33 hrs – Docs: WordPress Dev Tools & Build Process.
+-   0.17 hrs – Bugherd Local: reading documentation and made it worked.
+-   0.50 hrs – Meet wit Barbs, Brandon and Seren.
+-   1.00 hrs – Planned the next courses I need to complete.
+-   3.00 hrs – Personal project Phase 3 – Styling & Global Settings - looking for a way to change paddings just for mobile using theme.json + worked on global styles enhacements.
+-   1.50 hrs – GitHub Foundations, Part 2 - Module 7 + exercise, Had some issues with the repository but I solved and completed the module.
+-   1.00 hrs – Track/Solve Bugherd Tickets - Bugherd Tickets: #36 and #37 solved.

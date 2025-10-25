@@ -2,21 +2,26 @@
 
 ## Daily Standup
 
-### 2025‑09‑11
+### 2025‑10‑02
 
 ### How do you feel today?
 
-Feeling accomplished after resolving the GitHub billing issue and making progress on the project.
+Feeling accomplished after been abled to configured the MCP servers.
 
 ### What did you do yesterday?
 
-Collaborated with Seren, completed a GitHub course, and resolved the GitHub billing issue.
+– Meet with Lourens.
+– Meet with Ash.
+– Read documentation about Awesome MCP Copilot MCP server.
+– Read MCP documentation.
+– Configured MCP servers.
 
 ### What do you plan to do today?
 
--   [x] Complete the Microsoft course: Maintain a secure repository by using GitHub best practices.
--   [x] Work on Week 2 steps for the lsx-demo-theme project.
--   [x] Clean up my email inbox.
+-   [x] GitHub Foundations, Part 1.
+-   [x] Personal Project Phase 2 – Core Site Editor Build.
+-   [x] Website Design & Content Planning - Jose's Gaming Website.
+-   [x] Phase 3 – Styling & Global Settings
 
 ### What are your blockers?
 
@@ -24,6 +29,10 @@ None.
 
 ## Daily Logs
 
--   1.5 hrs – Completed the Microsoft course: Maintain a secure repository by using GitHub best practices.
--   4.5 hrs – Worked on Week 2 steps for the lsx-demo-theme project, focusing on refining and testing.
--   2.0 hrs – Cleaned up my email inbox and organized project-related emails.
+-   0.50 hrs – Planed the day priorities.
+-   1.50 hrs – GitHub Foundations, Part 1: Module 1: Introduction to Git and various documentations. Completed
+-   1.00 hrs – Personal Project Phase 2 – Core Site Editor Build - Site structure and content planning.
+-   1.00 hrs – Personal Project Phase 2 – Core Site Editor Build - Footer Template Part.
+-   2.00 hrs – Website Design & Content Planning - Jose's Gaming Website.
+-   1.00 hrs – Personal Project Phase 2 – Core Site Editor Build - theme.json configuration.
+-   1.00 hrs – Personal Project Phase 3 – Styling & Global Settings (Colours applied).

@@ -1,35 +1,40 @@
 # Week 5, Day 2 Log Template
 
-This template illustrates how to structure your daily log.  Duplicate this file for each day of the week and replace the placeholder text with your own entries.
-
 ## Daily Standup
+
+### 2025‑10‑21
 
 ### How do you feel today?
 
-Describe your overall mood or energy level.  For example: “Feeling excited to start working on the project.”
+Feeling good.
 
 ### What did you do yesterday?
 
-Summarise what you accomplished in the previous session.  Mention specific tasks or issues you worked on.
+– Planed the day priorities.
+– Asana task creation and organization.
+– Setted up a local environment and GitHub workflow to implement some refactor on LSX-demo-theme.
+– LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system - Updated theme.json settings.color.palette to use the semantic + neutral + accent scale.
+– LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system - Updated color palette and styles across various components to enhance consistency and branding + testing.
+– LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: Migrate font size tokens from legacy named slugs to a unified numeric scale (100-900), Updated font size definitions in theme.json to use numeric tokens, Replaced occurrences of legacy font size slugs in patterns, templates, and other files with corresponding numeric values, Introduced a guard script to enforce the use of numeric tokens and prevent legacy slugs in the codebase, Added documentation for the migration process and guidelines for future development.
+– xneelo - run through xneelo.co.za before first training session.
 
 ### What do you plan to do today?
 
-List the tasks you intend to work on today.  Use a checklist to break them down:
-
-- [ ] Replace this line with an actual task; keep descriptions short and action‑oriented.
-- [ ] Add more tasks as needed.
+-   [x] Xneelo Handover - Meet with Justin and Lourens 7am - 8am Chile time 12pm - 1pm SA time.
+-   [x] LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system.
 
 ### What are your blockers?
 
-Identify anything that might prevent you from making progress (e.g. waiting for feedback, unsure about a tool).  If you have no blockers, state “None”.
+None.
 
 ## Daily Logs
 
-Copy your Harvest time entries here.  Use bullets to list each time entry along with a brief description.  For example:
-
-```
-- 1.5 hrs – cloned repo and installed dependencies (Issue #1)
-- 2.0 hrs – read WordPress block theme documentation and took notes
-```
-
-You can draft notes throughout the day in this section and refine them before committing.
+-   0.50 hrs – Planed the day priorities.
+-   1.00 hrs – Xneelo Handover - Meet with Justin and Lourens 7am - 8am Chile time 12pm - 1pm SA time.
+-   1.50 hrs – Meet with Ash - How to Use copilot spaces properly and Personal project brief and copilot research.
+-   1.00 hrs – LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: Ensured consistency in font sizes for headings, paragraphs, and other text elements across multiple patterns, Removed deprecated font size definitions and replaced them with a more streamlined approach.
+-   1.00 hrs – LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: - testing fonts functionality across the theme
+-   0.50 hrs – LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: - Checking if the spacing convention is aligned with the Spacing Sizes & Slugs defined in the documentation.
+-   0.17 hrs – LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: Refactor color palette structure in evening and dark mode styles for improved readability.
+-   0.33 hrs – LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: Enhance typography and color system in README for improved clarity and consistency.
+-   1:50 hrs – LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system: Accessibility and testing.

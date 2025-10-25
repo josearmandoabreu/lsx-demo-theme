@@ -2,22 +2,28 @@
 
 ## Daily Standup
 
-### 2025‑09‑16
+### 2025‑10‑07
 
 ### How do you feel today?
 
-Feeling productive and motivated after learning new planning methods.
+Feeling productive and motivated after merged all the commits from my feat/ branch to the develop brach.
 
 ### What did you do yesterday?
 
-Completed GitHub courses, caught up with Seren on Week 2 tasks, and finished minor tasks on Asana.
+-   Meet with Barbara.
+-   Personal project Phase 2 – Core Site Editor Build - Header and footer improvements.
+-   Personal project Phase 3 – Styling & Global Settings - Colour palette, Typography scales, Spacing units, Layout settings.
+-   Solved Local setups problems with PHP and Composer.
+-   Personal project Phase 4 – Version Control & Documentation. Followed the GitHub Workflow and merged all my commits to the develop brand and then to the main branch.
 
 ### What do you plan to do today?
 
--   [x] Catch up with Ash and learn about sprint planning, scrums, kanban boards, and WIP limits.
--   [x] Restructure planning for the lsx-demo-theme project based on new methods.
--   [x] Work with Seren to set up new planning methods.
--   [x] Update personal project logs and create a new branch for log templates.
+-   [x] Meet with Brandon about: Github Issues, Logs, How things work in a local environment.
+-   [x] Meet with Ash.
+-   [x] Debug LightSpeed lsx-demo-theme repo erros.
+-   [x] Meet with Seren and Brandon.
+-   [x] Personal project Phase 4 – Version Control & Documentation.
+-   [x] Personal project Phase 5 – Staging.
 
 ### What are your blockers?
 
@@ -25,8 +31,10 @@ None.
 
 ## Daily Logs
 
--   1.5 hrs – Attended a catch-up session with Ash and learned about sprint planning, scrums, kanban boards, and WIP limits.
--   2.5 hrs – Restructured planning for the lsx-demo-theme project based on the new methods.
--   2.0 hrs – Worked with Seren to set up new planning methods for the project.
--   1.0 hrs – Updated personal project logs and ensured everything was up to date.
--   1.0 hrs – Created a new branch for log templates and prepared them for merging into the main lsx-demo-theme repository.
+-   0.50 hrs – Planed the day priorities.
+-   1.50 hrs – Meet with Brandon about: Github Issues, Logs, How things work in a local environment.
+-   0.58 hrs – Meet with Ash.
+-   2.00 hrs – Debugged LightSpeed lsx-demo-theme repo erros - Edit functions.php file and Delete unnecessary templates
+-   1.00 hrs – Meet with Seren and Brandon - Help interns to identify priorities.
+-   1.00 hrs – Personal project Phase 4 – Version Control & Documentation - Merged new changes to develop
+-   1.00 hrs – Personal project Phase 5 – Staging. - Merged all the changes from develop to main branch and created a database backup from my local site. Now the Live site have all the new styles and content.

@@ -2,21 +2,24 @@
 
 ## Daily Standup
 
-### 2025‑09‑03
+### 2025‑09‑24
 
 ### How do you feel today?
 
-Feeling focused but aware that the Block Theme Academy course requires a lot of attention.
+Feeling good.
 
 ### What did you do yesterday?
 
-Set up Local Ollie and LSX-Demo Site, and started the Block Theme Academy course. Forked the lsx-demo-theme.
+-   Created and updated profiles.
+-   Continue the Block Theme Academy course
+-   Organizing and creating tasks on Asana.
 
 ### What do you plan to do today?
 
+-   [x] Created and updated profiles (Slack, 1Password, Gravatar, Fireflies.ai).
+-   [x] Organizing and creating tasks on Asana.
+-   [x] Personal project - Phase 1 – Setup & Preparation. (I've forked and cloned the lsx-demo-theme, Local environment has been created, Tools have been installed and setup.)
 -   [x] Continue the Block Theme Academy course.
--   [x] Remove duplicate links on the Enhancing LSX-Demo-Theme.
--   [x] Add links to the resources in the study curriculum document.
 
 ### What are your blockers?
 
@@ -24,6 +27,7 @@ None.
 
 ## Daily Logs
 
--   4.0 hrs – Continued the Block Theme Academy course and refined notes.
--   2.0 hrs – Removed duplicate links on Enhancing LSX-Demo-Theme.
--   2.0 hrs – Added links to the resources in the study curriculum document.
+-   1.5 hrs – Created and updated profiles (Slack, 1Password, Gravatar, Fireflies.ai)..
+-   2.0 hrs – Organizing and creating tasks on Asana.
+-   2.0 hrs – Personal project - Phase 1 – Setup & Preparation.
+-   1.5 hrs – Continue the Block Theme Academy course.
