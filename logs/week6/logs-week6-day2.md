@@ -1,35 +1,46 @@
-# Week 6, Day 2 Log Template
-
-This template illustrates how to structure your daily log.  Duplicate this file for each day of the week and replace the placeholder text with your own entries.
+# Week 5, Day 5 Log Template
 
 ## Daily Standup
 
+### 2025‑10‑28
+
 ### How do you feel today?
 
-Describe your overall mood or energy level.  For example: “Feeling excited to start working on the project.”
+Feeling good.
 
-### What did you do yesterday?
+### What did you do on Friday?
 
-Summarise what you accomplished in the previous session.  Mention specific tasks or issues you worked on.
+- Planed the day priorities.
+- Meet with Barbs.
+- Meet with Lourens.
+- QP - Black Friday Pop-up 2025.
+- Admin work: Sent Barbs all the info she needs to process payment.
+- Accelerate App Development Using GitHub Copilot course.
+- Personal Project - Site Build Progress & Template Registration Checklist: Started the process of Merging the new "game review" features into the lsx-demo-theme codebase + new styles implementation + standardised colour, spacing, and typography token system locally.
+- Make the time logs for GitHub.
 
 ### What do you plan to do today?
 
-List the tasks you intend to work on today.  Use a checklist to break them down:
-
-- [ ] Replace this line with an actual task; keep descriptions short and action‑oriented.
-- [ ] Add more tasks as needed.
+-   [x] Xneelo Handover - Meet with Justin and Lourens 7am - 8am Chile time 12pm - 1pm SA time.
+-   [x] T4A - New customer registration email - Deploy.
+-   [x] FISA - small change required on the Museum page.
+-   [x] Jose Harvest time logs - share with Barbs.
+-   [x] LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system - Merge PR's.
+-   [x] Xneelo - Staging site practice following Justin's recommendations.
+-   [x] Personal project development.
 
 ### What are your blockers?
 
-Identify anything that might prevent you from making progress (e.g. waiting for feedback, unsure about a tool).  If you have no blockers, state “None”.
+None.
 
 ## Daily Logs
 
-Copy your Harvest time entries here.  Use bullets to list each time entry along with a brief description.  For example:
-
-```
-- 1.5 hrs – cloned repo and installed dependencies (Issue #1)
-- 2.0 hrs – read WordPress block theme documentation and took notes
-```
-
-You can draft notes throughout the day in this section and refine them before committing.
+-   0.50 hrs – Planed the day priorities.
+-   0.40 hrs – Xneelo Handover - Meet with Justin and Lourens.
+-   0.25 hrs – T4A - New customer registration email - Deploy & test.
+-   0.25 hrs – FISA - small change required on the Museum page.
+-   0.15 hrs – Jose Harvest time logs - share with Barbs.
+-   1.50 hrs – LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system - solved conflicts and Merge PR's.
+-   0.50 hrs – Admin work: Invoice format for Barbs.
+-   2:00 hrs – Xneelo - Staging site practice following Justin's recommendations. - Created a test page to practice with blocks and created a questionnaire with important questions for my next handover session with Justin.
+-   2:00 hrs – Personal Project - Site Build Progress & Template Registration Checklist: continue the process of Merging the new "game review" features into the lsx-demo-theme codebase + new styles implementation + standardised colour, spacing, and typography token system locally.
