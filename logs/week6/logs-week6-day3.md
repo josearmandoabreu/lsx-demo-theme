@@ -1,35 +1,45 @@
-# Week 6, Day 3 Log Template
-
-This template illustrates how to structure your daily log.  Duplicate this file for each day of the week and replace the placeholder text with your own entries.
+# Week 5, Day 5 Log Template
 
 ## Daily Standup
 
+### 2025‑10‑29
+
 ### How do you feel today?
 
-Describe your overall mood or energy level.  For example: “Feeling excited to start working on the project.”
+Feeling good.
 
 ### What did you do yesterday?
 
-Summarise what you accomplished in the previous session.  Mention specific tasks or issues you worked on.
+-   Planed the day priorities.
+-   Xneelo Handover - Meet with Justin and Lourens.
+-   T4A - New customer registration email - Deploy & test.
+-   FISA - small change required on the Museum page.
+-   Jose Harvest time logs - share with Barbs.
+-   LSX Demo Theme - Update theme.json to adopt standardised colour, spacing, and typography token system - solved conflicts and Merge PR's.
+-   Admin work: Invoice format for Barbs.
+-   Xneelo - Staging site practice following Justin's recommendations. - Created a test page to practice with blocks and created a questionnaire with important questions for my next handover session with Justin.
+-   Personal Project - Site Build Progress & Template Registration Checklist: continue the process of Merging the new "game review" features into the lsx-demo-theme codebase + new styles implementation + standardised colour, spacing, and typography token system locally.
 
 ### What do you plan to do today?
 
-List the tasks you intend to work on today.  Use a checklist to break them down:
-
-- [ ] Replace this line with an actual task; keep descriptions short and action‑oriented.
-- [ ] Add more tasks as needed.
+-   [x] Xneelo Handover - Meet with Justin and Lourens 7am - 8am Chile time 12pm - 1pm SA time.
+-   [x] Xneelo - Staging site practice following Justin's recommendations.
+-   [x] FISA - small change required on the Museum page.
+-   [x] Xneelo - Website check-in 9am to 9:25 Chile time - 2pm to 2:25pm SA time
+-   [x] Personal project development.
+-   [x] Study - Accelerate App Development Using GitHub Copilot course.
 
 ### What are your blockers?
 
-Identify anything that might prevent you from making progress (e.g. waiting for feedback, unsure about a tool).  If you have no blockers, state “None”.
+None.
 
 ## Daily Logs
 
-Copy your Harvest time entries here.  Use bullets to list each time entry along with a brief description.  For example:
-
-```
-- 1.5 hrs – cloned repo and installed dependencies (Issue #1)
-- 2.0 hrs – read WordPress block theme documentation and took notes
-```
-
-You can draft notes throughout the day in this section and refine them before committing.
+-   0.50 hrs – Planed the day priorities.
+-   0.75 hrs – Xneelo Handover - Meet with Justin and Lourens.
+-   0.25 hrs – Meet with Barbs.
+-   0.50 hrs – Admin work: Invoice new format + new documentation for the Bank for Barbs.
+-   0.25 hrs – Xneelo - Website check-in.
+-   2:00 hrs – Xneelo - Staging site practice following Justin's recommendations. - Continue reviewing the site + practiced with old tasks that Justin sent me.
+-   1:50 hrs – Study - Accelerate App Development Using GitHub Copilot. Module 1 complete + started Module 2.
+-   2:30 hrs – Personal Project - Site Build Progress & Template Registration Checklist: continue the process of Merging the new "game review" features into the lsx-demo-theme codebase + new styles implementation + standardised colour, spacing, and typography token system locally.
