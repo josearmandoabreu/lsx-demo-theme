@@ -1,4 +1,4 @@
-# Week 5, Day 5 Log Template
+# Week 6, Day 3 Log Template
 
 ## Daily Standup
 
