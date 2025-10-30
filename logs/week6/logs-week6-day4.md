@@ -1,35 +1,45 @@
 # Week 6, Day 4 Log Template
 
-This template illustrates how to structure your daily log.  Duplicate this file for each day of the week and replace the placeholder text with your own entries.
-
 ## Daily Standup
+
+### 2025‑10‑30
 
 ### How do you feel today?
 
-Describe your overall mood or energy level.  For example: “Feeling excited to start working on the project.”
+Feeling good.
 
 ### What did you do yesterday?
 
-Summarise what you accomplished in the previous session.  Mention specific tasks or issues you worked on.
+-   Planed the day priorities.
+-   Xneelo Handover - Meet with Justin and Lourens.
+-   Meet with Barbs.
+-   Admin work: Invoice new format + new documentation for the Bank for Barbs.
+-   Xneelo - Website check-in.
+-   Xneelo - Staging site practice following Justin's recommendations. - Continue reviewing the site + practiced with old tasks that Justin sent me.
+-   Study - Accelerate App Development Using GitHub Copilot. Module 1 complete + started Module 2.
+-   Personal Project - Site Build Progress & Template Registration Checklist: continue the process of Merging the new "game review" features into the lsx-demo-theme codebase + new styles implementation + standardised colour, spacing, and typography token system locally.
 
 ### What do you plan to do today?
 
-List the tasks you intend to work on today.  Use a checklist to break them down:
-
-- [ ] Replace this line with an actual task; keep descriptions short and action‑oriented.
-- [ ] Add more tasks as needed.
+-   [x] T4A - LIVE shop videos not working on products.
+-   [x] FISA - update required on the FISA council page.
+-   [x] Xneelo - Continue Staging site practice following Justin's recommendations.
+-   [x] Study - Accelerate App Development Using GitHub Copilot course.
 
 ### What are your blockers?
 
-Identify anything that might prevent you from making progress (e.g. waiting for feedback, unsure about a tool).  If you have no blockers, state “None”.
+None.
 
 ## Daily Logs
 
-Copy your Harvest time entries here.  Use bullets to list each time entry along with a brief description.  For example:
-
-```
-- 1.5 hrs – cloned repo and installed dependencies (Issue #1)
-- 2.0 hrs – read WordPress block theme documentation and took notes
-```
-
-You can draft notes throughout the day in this section and refine them before committing.
+-   1.00 hrs – Planed the day priorities.
+-   0.45 hrs – Meet with Ash
+-   0.15 hrs – Meet with Lourens.
+-   0.15 hrs – Meet with Barbs.
+-   0.50 hrs - looked for a solution to the t4a site problem with Youtube videos - online and using copilot
+-   0.75 hrs – T4A - LIVE shop videos not working on products - implementation and testing.
+-   0:50 hrs – Admin work: Talked with the team and set meets for next week 03 – 09 Nov 2025.
+-   0:25 hrs – Admin work: Zendesk - looked for tickets I can help with.
+-   1:00 hrs - FISA - update required on the FISA council page
+-   2:50 hrs - Xneelo - Staging site practice following Justin's recommendations. - Continue reviewing the site + practiced with old tasks that Justin sent me
+-   1:00 hrs – Study - Accelerate App Development Using GitHub Copilot. Module 2 + exercise completed.
