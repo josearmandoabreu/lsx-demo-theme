@@ -1,35 +1,49 @@
 # Week 7, Day 3 Log Template
 
-This template illustrates how to structure your daily log.  Duplicate this file for each day of the week and replace the placeholder text with your own entries.
-
 ## Daily Standup
+
+### 2025‑11‑05
 
 ### How do you feel today?
 
-Describe your overall mood or energy level.  For example: “Feeling excited to start working on the project.”
+Feeling good.
 
 ### What did you do yesterday?
 
-Summarise what you accomplished in the previous session.  Mention specific tasks or issues you worked on.
+-   Planed the day priorities.
+-   Xneelo Handover - Meet with Justin and Lourens 7am - 8am Chile time 12pm - 1pm SA time.
+-   T4A - discussion on "separate EU site" request from Johann.
+-   Novus - Meet with Zared - Novus Media Theme (nm-theme) — Handover.
+-   Meet with Warwick.
+-   Asana management.
+-   Novus - Novus Media Theme (nm-theme) — Handover docs.
+-   Rooi Rose - need to quote on a new site: I've took a look at the website structure.
+-   Rooi Rose - need to quote on a new site: Reviewed static pages and took note to elaborate a questionnaire for the client.
+-   Rooi Rose - need to quote on a new site: Review custom post types, Review Adds plugins, Review other plugins.
+-   Rooi Rose - need to quote on a new site: Preparing documents for the questionnaire and quote.
+-   Study - Accelerate App Development Using GitHub Copilot: Module 4 + exercise has been completed.
 
 ### What do you plan to do today?
 
-List the tasks you intend to work on today.  Use a checklist to break them down:
-
-- [ ] Replace this line with an actual task; keep descriptions short and action‑oriented.
-- [ ] Add more tasks as needed.
+-   [x] ARMD - LightSpeed | New Work: Cyber Resources page - deploy.
+-   [x] T4A - LIVE shop videos not working on products.
+-   [x] Rooi Rose - need to quote on a new site.
+-   [x] Xneelo - Staging site review and practice following Justin's recommendations.
+-   [x] Study - Accelerate App Development Using GitHub Copilot course.
 
 ### What are your blockers?
 
-Identify anything that might prevent you from making progress (e.g. waiting for feedback, unsure about a tool).  If you have no blockers, state “None”.
+None.
 
 ## Daily Logs
 
-Copy your Harvest time entries here.  Use bullets to list each time entry along with a brief description.  For example:
-
-```
-- 1.5 hrs – cloned repo and installed dependencies (Issue #1)
-- 2.0 hrs – read WordPress block theme documentation and took notes
-```
-
-You can draft notes throughout the day in this section and refine them before committing.
+-   0.30 hrs – Planed the day priorities.
+-   0.10 hrs – Meet with Barbs.
+-   0.45 hrs – ARMD - LightSpeed | New Work: Cyber Resources page - Deployed changes: Page creation,  Seo page configuration as client configured on the dev site, content and styles, Cyber   resources page has been added to all the menus with the title "Resources", Testing.
+-   0.22 hrs – Meet with Lourens.
+-   1.30 hrs – Rooi Rose - need to quote on a new site: Continue review other plugins, Continue review Ads plugins.
+-   0.10 hrs - Rooi Rose - need to quote on a new site: Repository review.
+-   0.15 hrs – Zendesk - looked for tickets to support: Found one and discussed it with Lourens and I will work on that.
+-   1.45 hrs – T4A - LIVE shop videos not working on products: Products Iframe update.
+-   0.50 hrs – T4A - LIVE shop videos not working on products: Pages Iframe update.
+-   1.30 hrs – Xneelo - Continue Staging site review and practice following Justin's recommendations.
