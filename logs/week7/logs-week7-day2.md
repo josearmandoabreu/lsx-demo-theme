@@ -1,35 +1,49 @@
 # Week 7, Day 2 Log Template
 
-This template illustrates how to structure your daily log.  Duplicate this file for each day of the week and replace the placeholder text with your own entries.
-
 ## Daily Standup
+
+### 2025‑11‑04
 
 ### How do you feel today?
 
-Describe your overall mood or energy level.  For example: “Feeling excited to start working on the project.”
+Feeling good.
 
 ### What did you do yesterday?
 
-Summarise what you accomplished in the previous session.  Mention specific tasks or issues you worked on.
+-   Planed the day priorities.
+-   Meet with Lourens.
+-   FISA - small change required on the Museum page.
+-   FISA - update required on the FISA council page.
+-   ARMD-LightSpeed | New Work: Cyber Resources page.
+-   Study - Accelerate App Development Using GitHub Copilot - Module 3 + exercise has been completed.
+-   Xneelo - DEV – Case studies feature on Self-Managed Servers.
+-   Xneelo - Staging site practice following Justin's recommendations.
 
 ### What do you plan to do today?
 
-List the tasks you intend to work on today.  Use a checklist to break them down:
-
-- [ ] Replace this line with an actual task; keep descriptions short and action‑oriented.
-- [ ] Add more tasks as needed.
+-   [x] Xneelo Handover - Meet with Justin and Lourens 7am - 8am Chile time - 12pm - 1pm SA time.
+-   [x] T4A - discussion on "separate EU site" request from Johann.
+-   [x] Novus - Meet with Zared - Novus Media Theme (nm-theme) — Handover.
+-   [x] Meet with Warwick.
+-   [x] Rooi Rose - need to quote on a new site - Meet and site review.
+-   [ ] Xneelo - Staging site review and practice following Justin's recommendations.
+-   [x] Study - Accelerate App Development Using GitHub Copilot course.
 
 ### What are your blockers?
 
-Identify anything that might prevent you from making progress (e.g. waiting for feedback, unsure about a tool).  If you have no blockers, state “None”.
+None.
 
 ## Daily Logs
 
-Copy your Harvest time entries here.  Use bullets to list each time entry along with a brief description.  For example:
-
-```
-- 1.5 hrs – cloned repo and installed dependencies (Issue #1)
-- 2.0 hrs – read WordPress block theme documentation and took notes
-```
-
-You can draft notes throughout the day in this section and refine them before committing.
+-   0.30 hrs – Planed the day priorities.
+-   1.00 hrs – Xneelo Handover - Meet with Justin and Lourens 7am - 8am Chile time 12pm - 1pm SA time.
+-   0.20 hrs – T4A - discussion on "separate EU site" request from Johann.
+-   0.25 hrs – Novus - Meet with Zared - Novus Media Theme (nm-theme) — Handover.
+-   0.13 hrs – Meet with Warwick.
+-   0.20 hrs – Asana management.
+-   0.30 hrs – Novus - Novus Media Theme (nm-theme) — Handover docs.
+-   0.30 hrs – Rooi Rose - need to quote on a new site: I've took a look at the website structure.
+-   1.20 hrs – Rooi Rose - need to quote on a new site: Reviewed static pages and took note to elaborate a questionnaire for the client.
+-   1.00 hrs – Rooi Rose - need to quote on a new site: Review custom post types, Review Adds plugins, Review other plugins.
+-   1.00 hrs – Rooi Rose - need to quote on a new site: Preparing documents for the questionnaire and quote.
+-   1.10 hrs – Study - Accelerate App Development Using GitHub Copilot: Module 4 + exercise has been completed.
