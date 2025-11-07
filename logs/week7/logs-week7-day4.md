@@ -1,35 +1,50 @@
 # Week 7, Day 4 Log Template
 
-This template illustrates how to structure your daily log.  Duplicate this file for each day of the week and replace the placeholder text with your own entries.
-
 ## Daily Standup
+
+### 2025‑11‑06
 
 ### How do you feel today?
 
-Describe your overall mood or energy level.  For example: “Feeling excited to start working on the project.”
+Feeling good.
 
 ### What did you do yesterday?
 
-Summarise what you accomplished in the previous session.  Mention specific tasks or issues you worked on.
+-   Planed the day priorities.
+-   Meet with Barbs.
+-   ARMD - LightSpeed | New Work: Cyber Resources page - Deployed changes.
+-   Meet with Lourens.
+-   Rooi Rose - need to quote on a new site: Continue review other plugins, Continue review Ads plugins.
+-   Rooi Rose - need to quote on a new site: Repository review.
+-   Zendesk - looked for tickets to support: Found one and discussed it with Lourens and I will work on that.
+-   T4A - LIVE shop videos not working on products: Products Iframe update.
+-   T4A - LIVE shop videos not working on products: Pages Iframe update.
+-   Xneelo - Continue Staging site review and practice following Justin's recommendations.
 
 ### What do you plan to do today?
 
-List the tasks you intend to work on today.  Use a checklist to break them down:
-
-- [ ] Replace this line with an actual task; keep descriptions short and action‑oriented.
-- [ ] Add more tasks as needed.
+-   [x] Meet with Louren.
+-   [x] Vanschaiknet - WP performance - escalation.
+-   [x] ARMD - Handover Meeting with Warwick and Zared.
+-   [x] T4A - LIVE shop videos not working on products - quick fix.
+-   [x] FISA - font size on event posts.
+-   [x] Novus - Novus Media Theme (nm-theme) — Handover.
+-   [x] Study - Accelerate App Development Using GitHub Copilot course.
 
 ### What are your blockers?
 
-Identify anything that might prevent you from making progress (e.g. waiting for feedback, unsure about a tool).  If you have no blockers, state “None”.
+None.
 
 ## Daily Logs
 
-Copy your Harvest time entries here.  Use bullets to list each time entry along with a brief description.  For example:
-
-```
-- 1.5 hrs – cloned repo and installed dependencies (Issue #1)
-- 2.0 hrs – read WordPress block theme documentation and took notes
-```
-
-You can draft notes throughout the day in this section and refine them before committing.
+-   0:30 hrs – Planed the day priorities.
+-   0:30 hrs – Meet with Lourens.
+-   1:00 hrs – Vanschaiknet - WP performance - escalation: Reviewed the site Front/admin, Lighthouse report analysis.
+-   0:45 hrs – Novus - Novus Media Theme (nm-theme) — Handover: Reviewed Setting up a Local Development Environment doc, Installed and reviewed vs code extensions.
+-   0:30 hrs – ARMD - Handover - Meet with Warwick and Zared.
+-   0:15 hrs - Zendesk - looked for tickets to support.
+-   1:20 hrs – FISA - font size on event posts: Tested and looked for the source problem, Discussed possible solutions with Warwick
+-   1:00 hrs – FISA - font size on event posts: Fixing styles for single Events Calendar
+-   0:50 hrs – T4A - LIVE shop videos not working on products: Pages Iframe update.
+-   0:45 hrs – Novus - Novus Media Theme (nm-theme) — Handover: Read documentations, Started local set up.
+-   1:30 hrs - Study - Accelerate App Development Using GitHub Copilot: 100% Of the course complete - Today's progress: Module 5 + exercise has been completed.
