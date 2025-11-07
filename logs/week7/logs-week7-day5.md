@@ -1,35 +1,47 @@
 # Week 7, Day 5 Log Template
 
-This template illustrates how to structure your daily log.  Duplicate this file for each day of the week and replace the placeholder text with your own entries.
-
 ## Daily Standup
+
+### 2025‑11‑07
 
 ### How do you feel today?
 
-Describe your overall mood or energy level.  For example: “Feeling excited to start working on the project.”
+Feeling good.
 
 ### What did you do yesterday?
 
-Summarise what you accomplished in the previous session.  Mention specific tasks or issues you worked on.
+-   Planed the day priorities.
+-   Meet with Lourens.
+-   Vanschaiknet - WP performance - escalation
+-   Novus - Novus Media Theme (nm-theme) — Handover: Reviewed Setting up a Local Development Environment doc, Installed and reviewed vs code extensions.
+-   ARMD - Handover - Meet with Warwick and Zared.
+-   Zendesk - looked for tickets to support.
+-   FISA - font size on event posts: Tested and looked for the source problem, Discussed possible solutions with Warwick
+-   FISA - font size on event posts: Fixing styles for single Events Calendar
+-   T4A - LIVE shop videos not working on products: Pages Iframe update.
+-   Novus - Novus Media Theme (nm-theme) — Handover: Read documentations, Started local set up.
+-   Study - Accelerate App Development Using GitHub Copilot: 100% Of the course complete - Today's progress: Module 5 + exercise has been completed.
 
 ### What do you plan to do today?
 
-List the tasks you intend to work on today.  Use a checklist to break them down:
-
-- [ ] Replace this line with an actual task; keep descriptions short and action‑oriented.
-- [ ] Add more tasks as needed.
+-   [x] FISA - font size on event posts: Discuss with Warwick the solution I found.
+-   [x] LSX Design theme - Make single-events.css retro-compatible.
+-   [x] Novus - Novus Media Theme (nm-theme) — Handover.
+-   [x] ARMD - Handover.
+-   [x] Xneelo - Staging site review and practice following Justin's recommendations.
+-   [x] Study - Learn Frontend Build & Code Quality Tools.
 
 ### What are your blockers?
 
-Identify anything that might prevent you from making progress (e.g. waiting for feedback, unsure about a tool).  If you have no blockers, state “None”.
+None.
 
 ## Daily Logs
 
-Copy your Harvest time entries here.  Use bullets to list each time entry along with a brief description.  For example:
-
-```
-- 1.5 hrs – cloned repo and installed dependencies (Issue #1)
-- 2.0 hrs – read WordPress block theme documentation and took notes
-```
-
-You can draft notes throughout the day in this section and refine them before committing.
+-   0:45 hrs – Planed the day priorities.
+-   0:20 hrs – Asana tasks management.
+-   0:50 hrs – LSX Design theme - Make single-events.css retro-compatible: Local environment for testing. 
+-   1:45 hrs – LSX Design theme - Make single-events.css retro-compatible: Development and tests.
+-   0:30 hrs – LSX Design theme - Make single-events.css retro-compatible: GitHub Issue and PR.
+-   1:00 hrs - ARMD - Handover: Documentation.
+-   1:20 hrs – Novus - Novus Media Theme (nm-theme) — Handover: Docs and local setup.
+-   1:20 hrs – Study - Learn Frontend Build & Code Quality Tools: Babel and Webpack docs.
